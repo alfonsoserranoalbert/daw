@@ -1,2 +1,2 @@
 Hola , estamos en la clase de repaso de GIT
-Bienvenido a la primera clase de git en daw
+Bienvenido a la primera clase de git.
